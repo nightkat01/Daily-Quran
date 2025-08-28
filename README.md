@@ -1,4 +1,3 @@
-# Daily-Quran
 # Daily Quran Terminal 🌙✨
 
 Bring inspiration to your terminal with beautiful Quranic verses displayed automatically when you open new terminal windows.
@@ -6,6 +5,23 @@ Bring inspiration to your terminal with beautiful Quranic verses displayed autom
 ![Daily Quran Terminal](https://img.shields.io/badge/Terminal-Islamic%20Inspiration-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
+## 📚 Table of Contents
+
+- [Features](#-features)
+- [Prerequisites](#-prerequisites)
+- [Installation](#-installation)
+- [How It Works](#-how-it-works)
+- [File Structure](#-file-structure)
+- [Customization](#️-customization)
+- [Uninstallation](#️-uninstallation)
+- [Troubleshooting](#-troubleshooting)
+- [Verse Authenticity & Verification](#-verse-authenticity--verification)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Acknowledgments](#-acknowledgments)
+- [Support](#-support)
+- [Changelog](#-changelog)
 
 ## 🌟 Features
 
@@ -37,7 +53,7 @@ git clone https://github.com/nightkat01/Daily-Quran.git
 cd Daily-Quran
 ```
 
-### Step 2: Make the Install Script Executable
+### Step 2: Make the install Script Executable
 ```bash
 chmod +x install.sh
 ```
@@ -84,13 +100,13 @@ After installation, files are organized as follows:
 
 ## 🛠️ Customization
 
-### Modify Verses
+### Editing Verses
 Edit the verses file:
 ```bash
 nano ~/.config/quran-verses/verses.txt
 ```
 
-### Adjust Display Settings
+### Adjusting Display Settings
 Edit the configuration:
 ```bash
 nano ~/.config/quran-verses/config
@@ -101,7 +117,7 @@ Available settings:
 - `HEADER_TEXT`: Custom header text
 - `DISPLAY_MODE`: "window" or "session"
 
-### Change Display Mode
+### Switching Display Modes
 Re-run the installer to switch between modes:
 ```bash
 cd Daily-Quran
@@ -110,7 +126,7 @@ cd Daily-Quran
 
 ## 🗑️ Uninstallation
 
-### Step 1: Make the Uninstall Script Executable
+### Step 1: Make the uninstall Script Executable
 ```bash
 chmod +x uninstall.sh
 ```
@@ -182,15 +198,46 @@ chmod +x install.sh
 ./install.sh
 ```
 
+## 📖 Verse Authenticity & Verification
+
+**Important Declaration**: All Quranic verses included in this project have been:
+
+- ✅ **Double-checked by qualified human reviewers** with Islamic scholarship background
+- ✅ **Verified for complete authenticity** according to the Sunnah of Prophet Muhammad (ﷺ)
+- ✅ **Cross-referenced with the original Arabic Quran** to ensure accurate translation and meaning
+- ✅ **Reviewed for proper context** to maintain the intended spiritual message
+- ✅ **Validated against multiple authentic Islamic sources** including renowned translations
+
+### Translation Standards
+- All verses maintain **fidelity to the original Arabic text**
+- Translations preserve the **spiritual essence and intended meaning**
+- **No interpretations or additions** beyond the authentic Quranic text
+- References include **Surah and Ayah numbers** for verification
+
+### Scholarly Review Process
+Every verse undergoes a **multi-step verification process**:
+1. **Arabic text verification** against the Mushaf
+2. **Translation accuracy review** by Islamic scholars
+3. **Contextual appropriateness** assessment
+4. **Sunnah compliance** verification
+5. **Final approval** by qualified reviewers
+
+**Note**: Users are encouraged to refer to the complete Quran and consult with qualified Islamic scholars for comprehensive understanding and context of any verse.
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+**Religious Content Disclaimer**: While the code is under MIT License, the Quranic verses remain the sacred word of Allah (SWT) and are included here with utmost respect and reverence for educational and spiritual reflection purposes.
+
 ## 🙏 Acknowledgments
 
-- Verses are carefully selected from authentic Islamic sources
-- Inspired by the need to bring spiritual reflection into daily development work
-- Thanks to all contributors who help maintain and improve this project
+- **Islamic Scholars**: Gratitude to the qualified reviewers who verified verse authenticity
+- **Original Sources**: All verses traced back to the authentic Arabic Quran
+- **Translation References**: Authentic Islamic translation sources and scholarly works
+- **Community**: Islamic developers and users who provide feedback on accuracy
+- **Inspiration**: The need to bring authentic spiritual reflection into daily development work
+- **Contributors**: All who help maintain the authenticity and accuracy of this project
 
 ## 📞 Support
 
