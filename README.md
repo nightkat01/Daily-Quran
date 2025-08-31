@@ -50,17 +50,17 @@ Most Linux distributions and macOS include these by default.
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/nightkat01/Daily-Quran.git
-cd Daily-Quran
+cd Daily-Quran/Daily_Quran
 ```
 
 ### Step 2: Make the install Script Executable
 ```bash
-chmod +x install.sh
+chmod +x setup.sh
 ```
 
 ### Step 3: Run the Installation
 ```bash
-./install.sh
+./setup.sh
 ```
 
 ### Step 4: Follow the Interactive Setup
@@ -120,8 +120,8 @@ Available settings:
 ### Switching Display Modes
 Re-run the installer to switch between modes:
 ```bash
-cd Daily-Quran
-./install.sh
+cd Daily-Quran/Daily_Quran
+./setup.sh
 ```
 
 ## 🗑️ Uninstallation
