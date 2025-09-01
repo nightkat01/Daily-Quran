@@ -3,11 +3,13 @@
 Bring inspiration to your terminal with beautiful Quranic verses displayed automatically when you open new terminal windows.
 
 ![Daily Quran Terminal](https://img.shields.io/badge/Terminal-Islamic%20Inspiration-green?style=for-the-badge)
+
 ![Version](https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ## 📚 Table of Contents
 
+- [Screenshots](#-screenshots)
 - [Features](#-features)
 - [Prerequisites](#-prerequisites)
 - [Installation](#-installation)
@@ -22,6 +24,22 @@ Bring inspiration to your terminal with beautiful Quranic verses displayed autom
 - [Acknowledgments](#-acknowledgments)
 - [Support](#-support)
 - [Changelog](#-changelog)
+
+## 📸 Screenshots
+
+### Installation Process
+![Installation Start](screenshots/ss_01.png)
+*Interactive installation with display mode selection*
+
+![Mode Selection](screenshots/ss_02.png) 
+*Choose between window-based or session-based display modes*
+
+### Verse Display Examples
+![Terminal Integration](screenshots/ss_05.png)
+*Seamless integration with your daily terminal workflow*
+
+### Terminal Integration
+*Advanced session tracking prevents duplicate verses in the same time period*
 
 ## 🌟 Features
 
@@ -63,7 +81,9 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
+
 ### Step 4: Follow the Interactive Setup
+
 The installer will guide you through:
 1. **Display Mode Selection**
    - Window-based: Show verse in every new terminal window
@@ -179,25 +199,6 @@ nano ~/.config/quran-verses/config
 # Change WRAP_WIDTH to a smaller value
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Here are ways you can help:
-
-1. **Add More Verses**: Submit verses with proper attribution
-2. **Improve Display**: Enhance formatting or add new themes
-3. **Bug Reports**: Report issues with detailed reproduction steps
-4. **Feature Requests**: Suggest new functionality
-5. **Documentation**: Help improve this README or add translations
-
-### Development Setup
-```bash
-git clone https://github.com/nightkat01/Daily-Quran.git
-cd Daily-Quran
-# Make changes and test
-chmod +x install.sh
-./install.sh
-```
-
 ## 📖 Verse Authenticity & Verification
 
 **Important Declaration**: All Quranic verses included in this project have been:
@@ -223,6 +224,25 @@ Every verse undergoes a **multi-step verification process**:
 5. **Final approval** by qualified reviewers
 
 **Note**: Users are encouraged to refer to the complete Quran and consult with qualified Islamic scholars for comprehensive understanding and context of any verse.
+
+## 🤝 Contributing
+
+We welcome contributions! Here are ways you can help:
+
+1. **Add More Verses**: Submit verses with proper attribution
+2. **Improve Display**: Enhance formatting or add new themes
+3. **Bug Reports**: Report issues with detailed reproduction steps
+4. **Feature Requests**: Suggest new functionality
+5. **Documentation**: Help improve this README or add translations
+
+### Development Setup
+```bash
+git clone https://github.com/nightkat01/Daily-Quran.git
+cd Daily-Quran
+# Make changes and test
+chmod +x install.sh
+./install.sh
+```
 
 ## 📜 License
 
