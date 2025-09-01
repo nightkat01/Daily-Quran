@@ -241,9 +241,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Islamic Scholars**: Gratitude to the reviewers who verified verse authenticity
 - **Original Sources**: All verses traced back to the authentic Arabic Quran
-- **Translation References**: Authentic Islamic translation sources and scholarly works
 - **Community**: Islamic developers and users who provide feedback on accuracy
 - **Inspiration**: The need to bring authentic spiritual reflection into daily development work
 - **Contributors**: All who help maintain the authenticity and accuracy of this project
