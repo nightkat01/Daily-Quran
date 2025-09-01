@@ -18,7 +18,6 @@ Bring inspiration to your terminal with beautiful Quranic verses displayed autom
 - [Customization](#️-customization)
 - [Uninstallation](#️-uninstallation)
 - [Troubleshooting](#-troubleshooting)
-- [Verse Authenticity & Verification](#-verse-authenticity--verification)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Acknowledgments](#-acknowledgments)
@@ -40,7 +39,7 @@ Bring inspiration to your terminal with beautiful Quranic verses displayed autom
 ![Terminal Integration](screenshots/ss_04.png)
 ![Terminal Integration](screenshots/ss_05.png)
 ### Uninstallation 
-*Advanced session tracking prevents duplicate verses in the same time period*
+*Easy uninstallation with backup .bashrc*
 ![Terminal Integration](screenshots/ss_06.png)
 ## 🌟 Features
 
@@ -204,10 +203,8 @@ nano ~/.config/quran-verses/config
 
 **Important Declaration**: All Quranic verses included in this project have been:
 
-- ✅ **Double-checked by qualified human reviewers** with Islamic scholarship background
 - ✅ **Verified for complete authenticity** according to the Sunnah of Prophet Muhammad (ﷺ)
 - ✅ **Cross-referenced with the original Arabic Quran** to ensure accurate translation and meaning
-- ✅ **Reviewed for proper context** to maintain the intended spiritual message
 - ✅ **Validated against multiple authentic Islamic sources** including renowned translations
 
 ### Translation Standards
@@ -216,15 +213,6 @@ nano ~/.config/quran-verses/config
 - **No interpretations or additions** beyond the authentic Quranic text
 - References include **Surah and Ayah numbers** for verification
 
-### Scholarly Review Process
-Every verse undergoes a **multi-step verification process**:
-1. **Arabic text verification** against the Mushaf
-2. **Translation accuracy review** by Islamic scholars
-3. **Contextual appropriateness** assessment
-4. **Sunnah compliance** verification
-5. **Final approval** by qualified reviewers
-
-**Note**: Users are encouraged to refer to the complete Quran and consult with qualified Islamic scholars for comprehensive understanding and context of any verse.
 
 ## 🤝 Contributing
 
@@ -253,7 +241,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Islamic Scholars**: Gratitude to the qualified reviewers who verified verse authenticity
+- **Islamic Scholars**: Gratitude to the reviewers who verified verse authenticity
 - **Original Sources**: All verses traced back to the authentic Arabic Quran
 - **Translation References**: Authentic Islamic translation sources and scholarly works
 - **Community**: Islamic developers and users who provide feedback on accuracy
