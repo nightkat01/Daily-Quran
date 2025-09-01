@@ -35,12 +35,13 @@ Bring inspiration to your terminal with beautiful Quranic verses displayed autom
 *Choose between window-based or session-based display modes*
 
 ### Verse Display Examples
-![Terminal Integration](screenshots/ss_05.png)
+![Terminal Integration](screenshots/ss_03.png)
 *Seamless integration with your daily terminal workflow*
-
-### Terminal Integration
+![Terminal Integration](screenshots/ss_04.png)
+![Terminal Integration](screenshots/ss_05.png)
+### Uninstallation 
 *Advanced session tracking prevents duplicate verses in the same time period*
-
+![Terminal Integration](screenshots/ss_06.png)
 ## 🌟 Features
 
 - **Twice Daily Verses**: Get inspiring verses at natural intervals
